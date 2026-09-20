@@ -11,6 +11,7 @@ Nothing here is automatically an implementation requirement. A proposal becomes 
 - [Architecture options](architecture/options.md)
 - [Verification strategy](verification/strategy.md)
 - [Roadmap](roadmap.md)
+- [Diagram conventions](diagrams/README.md)
 - [Decision process](decisions/README.md)
 - [Official references](references/official-links.md)
 - [Project examples](references/project-examples.md)
@@ -23,6 +24,10 @@ Nothing here is automatically an implementation requirement. A proposal becomes 
 - Give important choices their own decision record.
 - Mark superseded material instead of quietly rewriting history.
 - Prefer one topic per file and links over duplicated text.
+
+## Diagrams
+
+Use [Excalidraw](https://excalidraw.com/) for project diagrams. Commit the editable source and an exported image according to the [diagram conventions](diagrams/README.md) so contributors can both view and revise each diagram.
 
 ## Status vocabulary
 

@@ -32,3 +32,4 @@ Do not place synthesizable RTL or required Tiny Tapeout submission files here. T
 - Mark old conclusions superseded and retain their historical context.
 - Put exact implemented behavior in the ASIC repository.
 - Never describe bounded formal checks, estimates, or pre-layout synthesis as stronger evidence than they are.
+- Use Excalidraw for diagrams and follow `diagrams/README.md`; preserve editable sources when changing a diagram.

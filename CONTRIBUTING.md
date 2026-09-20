@@ -18,6 +18,10 @@ Use a short-lived branch and keep pull requests focused on one research question
 - Separate observed results from interpretation.
 - Do not copy source text when a concise summary and link are enough.
 
+## Adding diagrams
+
+Create and edit diagrams with [Excalidraw](https://excalidraw.com/). Follow [the diagram conventions](diagrams/README.md), including committing the editable `.excalidraw` source beside an exported SVG or PNG.
+
 ## Making a decision
 
 Copy [`decisions/000-template.md`](decisions/000-template.md). Leave the status `Proposed` while evidence or review is incomplete. An accepted record must name the accepted option, explain why alternatives lost, and list consequences.
