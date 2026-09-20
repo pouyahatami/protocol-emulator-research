@@ -13,6 +13,7 @@ Nothing here is automatically an implementation requirement. A proposal becomes 
 - [Roadmap](roadmap.md)
 - [Decision process](decisions/README.md)
 - [Official references](references/official-links.md)
+- [Project examples](references/project-examples.md)
 
 ## Writing conventions
 

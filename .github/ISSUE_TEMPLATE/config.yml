@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ASIC implementation
+    url: https://github.com/pouyahatami/protocol-emulator-asic/issues
+    about: Report implementation bugs and request accepted implementation work in the ASIC repository.
