@@ -16,26 +16,6 @@ Nothing here is automatically an implementation requirement. A proposal becomes 
 - [Official references](references/official-links.md)
 - [Project examples](references/project-examples.md)
 
-## Writing conventions
-
-- Distinguish **confirmed**, **measured**, **estimated**, and **proposed** claims.
-- Link external rules and hardware facts to primary sources.
-- Put a date and test setup beside measurements.
-- Give important choices their own decision record.
-- Mark superseded material instead of quietly rewriting history.
-- Prefer one topic per file and links over duplicated text.
-
 ## Diagrams
 
 Use [Excalidraw](https://excalidraw.com/) for project diagrams. Commit the editable source and an exported image according to the [diagram conventions](diagrams/README.md) so contributors can both view and revise each diagram.
-
-## Status vocabulary
-
-| Label | Meaning |
-|---|---|
-| Confirmed | Directly supported by an authoritative source |
-| Measured | Produced by a documented experiment or tool run |
-| Estimated | A planning value with stated assumptions |
-| Proposed | A design choice still open to challenge |
-| Accepted | A decision approved for implementation |
-| Superseded | Historical material replaced by a later decision |
